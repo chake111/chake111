@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-    <img width="800" src="https://github-readme-stats.vercel.app/api?username=chake111&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=chake111&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
     <a href="https://git.io/streak-stats">
         <img width="400" src="https://streak-stats.demolab.com?user=chake111&theme=transparent&hide_border=true&card_width=300" alt="GitHub Streak" />
     </a>
