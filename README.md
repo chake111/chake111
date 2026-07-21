@@ -1,62 +1,46 @@
-<div align="center">
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI%20THERE&desc=I%20am%20chake111" />
+</p>
 
-# chake111
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chake111&abbreviated=true" />
+    <a href="https://github.com/chake111">
+        <img src="https://img.shields.io/github/followers/chake111?label=GitHub&style=social" />
+    </a>
+    <a href="https://wakatime.com/@chake111">
+        <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" />
+    </a>
+</p>
 
-```text
-role        full-stack developer
-backend     Java / Spring / MySQL / Redis
-frontend    Vue / TypeScript / Vite / Pinia
-delivery    Docker / Jenkins / Nginx / Git
-focus       stable services, practical UI, repeatable deployment
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=light" alt="idea" />
+  <img src="https://skillicons.dev/icons?i=maven&theme=light" alt="maven" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="nginx" />
+  <img src="https://skillicons.dev/icons?i=pinia&theme=light" alt="pinia" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="typeScript" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=light" alt="vite" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode" />
+</p>
 
-**Hi, I'm chake111. I turn product ideas into maintainable web systems.**  
-**你好，我是 chake111，专注把产品想法落成稳定、可维护的 Web 系统。**
+<p align="center">
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=chake111&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+    <a href="https://git.io/streak-stats">
+        <img width="300" src="https://streak-stats.demolab.com?user=chake111&theme=transparent&hide_border=true&card_width=300" alt="GitHub Streak" />
+    </a>
+</p>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=chake111&theme=github-compact&hide_border=true&area=true" />
 
-[![GitHub followers](https://img.shields.io/github/followers/chake111?label=GitHub&style=for-the-badge&color=111827)](https://github.com/chake111)
-[![WakaTime](https://img.shields.io/badge/WakaTime-111827?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@chake111)
-
-</div>
-
-## System Profile
-
-```text
-Backend    Java, Spring, Maven, RabbitMQ
-Frontend   Vue, TypeScript, Vite, Pinia
-Database   MySQL, Redis, MongoDB, Elasticsearch
-Ops        Docker, Jenkins, Nginx
-Tools      Git, IntelliJ IDEA, VS Code
-```
-
-## Working Mode
-
-```text
-01. Model the data and boundaries before writing service code.
-02. Keep APIs explicit, testable, and easy to evolve.
-03. Build frontend state around real workflows, not accidental screens.
-04. Use automation to make delivery predictable.
-```
-
-## Tech Radar
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,mongodb,elasticsearch,rabbitmq,vue,ts,vite,pinia,docker,jenkins,nginx,git,idea,vscode&theme=dark" alt="Dark themed icons for Java, Spring, Maven, MySQL, Redis, MongoDB, Elasticsearch, RabbitMQ, Vue, TypeScript, Vite, Pinia, Docker, Jenkins, Nginx, Git, IntelliJ IDEA, and VS Code" />
-</div>
-
-## Runtime Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chake111&theme=github_dark&include_all_commits=true&show_icons=true&hide_border=true" alt="chake111 GitHub stats in dark theme" />
-  <img height="165" src="https://streak-stats.demolab.com?user=chake111&theme=github-dark-blue&hide_border=true" alt="chake111 GitHub streak in dark theme" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chake111&theme=github-dark&hide_border=true&area=true" alt="chake111 GitHub activity graph in dark theme" />
-</div>
-
-## Links
-
-```text
-GitHub    https://github.com/chake111
-WakaTime  https://wakatime.com/@chake111
-```
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=THE%20END&section=footer&textBg=false&desc=think%20for%20you%20view" />
+</p>
