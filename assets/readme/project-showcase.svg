@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="900" viewBox="0 0 1200 900"
+     role="img" aria-labelledby="title desc">
+  <title id="title">@chake111 的三个代表项目</title>
+  <desc id="desc">AI 工具推荐、饮品点单全栈系统和 AI 简历诊断的核心工作流程。</desc>
+
+  <rect width="1200" height="900" rx="6" fill="#17181B"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="64" y="68" font-size="42" font-weight="750" fill="#F7F8FA">代表项目</text>
+    <text x="1136" y="66" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700" fill="#A5ABB3">SELECTED WORK / 2026</text>
+  </g>
+
+  <line x1="64" y1="98" x2="1136" y2="98" stroke="#34373D" stroke-width="2"/>
+
+  <g transform="translate(64 132)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="0" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#20B8CD">01</text>
+    <text x="54" y="34" font-size="34" font-weight="720" fill="#F7F8FA">AI Tool Picker</text>
+    <text x="54" y="72" font-size="21" fill="#A5ABB3">让具体需求先变成可比较的 AI 工具选择</text>
+    <text x="54" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#20B8CD">NEXT.JS · TYPESCRIPT · POSTGRESQL · LLM</text>
+
+    <g transform="translate(460 12)">
+      <rect width="172" height="82" rx="6" fill="#202328" stroke="#20B8CD" stroke-width="2"/>
+      <text x="86" y="50" text-anchor="middle" font-size="22" font-weight="650" fill="#F7F8FA">输入需求</text>
+      <path d="M190 41H229" fill="none" stroke="#20B8CD" stroke-width="2"/>
+      <path d="M220 33L229 41L220 49" fill="none" stroke="#20B8CD" stroke-width="2"/>
+    </g>
+    <g transform="translate(708 12)">
+      <rect width="172" height="82" rx="6" fill="#202328" stroke="#20B8CD" stroke-width="2"/>
+      <text x="86" y="50" text-anchor="middle" font-size="22" font-weight="650" fill="#F7F8FA">推荐排序</text>
+      <path d="M190 41H229" fill="none" stroke="#20B8CD" stroke-width="2"/>
+      <path d="M220 33L229 41L220 49" fill="none" stroke="#20B8CD" stroke-width="2"/>
+    </g>
+    <g transform="translate(956 12)">
+      <rect width="180" height="82" rx="6" fill="#20B8CD"/>
+      <text x="90" y="50" text-anchor="middle" font-size="22" font-weight="700" fill="#17181B">对比 / 收藏</text>
+    </g>
+  </g>
+
+  <line x1="64" y1="354" x2="1136" y2="354" stroke="#34373D" stroke-width="2"/>
+
+  <g transform="translate(64 390)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="0" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#FF6B6B">02</text>
+    <text x="54" y="34" font-size="34" font-weight="720" fill="#F7F8FA">饮品点单系统</text>
+    <text x="54" y="72" font-size="21" fill="#A5ABB3">用户端、管理端与业务服务协同</text>
+    <text x="54" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#FF6B6B">VUE · SPRING BOOT · MYSQL · REDIS</text>
+
+    <g transform="translate(428 0)">
+      <rect width="154" height="70" rx="6" fill="#202328" stroke="#FF6B6B" stroke-width="2"/>
+      <text x="77" y="43" text-anchor="middle" font-size="21" font-weight="650" fill="#F7F8FA">用户端</text>
+      <rect y="88" width="154" height="70" rx="6" fill="#202328" stroke="#FF6B6B" stroke-width="2"/>
+      <text x="77" y="131" text-anchor="middle" font-size="21" font-weight="650" fill="#F7F8FA">管理端</text>
+      <path d="M172 35H214V79H248M172 123H214V79" fill="none" stroke="#FF6B6B" stroke-width="2"/>
+      <path d="M239 71L248 79L239 87" fill="none" stroke="#FF6B6B" stroke-width="2"/>
+    </g>
+    <g transform="translate(676 38)">
+      <rect width="214" height="82" rx="6" fill="#FF6B6B"/>
+      <text x="107" y="39" text-anchor="middle" font-size="21" font-weight="720" fill="#17181B">Spring Boot API</text>
+      <text x="107" y="64" text-anchor="middle" font-size="17" fill="#17181B">JWT · WebSocket</text>
+      <path d="M232 41H271" fill="none" stroke="#FF6B6B" stroke-width="2"/>
+      <path d="M262 33L271 41L262 49" fill="none" stroke="#FF6B6B" stroke-width="2"/>
+    </g>
+    <g transform="translate(965 38)">
+      <rect width="171" height="82" rx="6" fill="#202328" stroke="#FF6B6B" stroke-width="2"/>
+      <text x="86" y="39" text-anchor="middle" font-size="20" font-weight="650" fill="#F7F8FA">MySQL</text>
+      <text x="86" y="64" text-anchor="middle" font-size="18" fill="#A5ABB3">Redis</text>
+    </g>
+  </g>
+
+  <line x1="64" y1="646" x2="1136" y2="646" stroke="#34373D" stroke-width="2"/>
+
+  <g transform="translate(64 682)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="0" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#F5B942">03</text>
+    <text x="54" y="34" font-size="34" font-weight="720" fill="#F7F8FA">AI 简历诊断</text>
+    <text x="54" y="72" font-size="21" fill="#A5ABB3">从岗位目标与简历文本生成诊断建议</text>
+    <text x="54" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#F5B942">PYTHON · STREAMLIT · LLM API</text>
+
+    <g transform="translate(460 12)">
+      <rect width="172" height="82" rx="6" fill="#202328" stroke="#F5B942" stroke-width="2"/>
+      <text x="86" y="50" text-anchor="middle" font-size="22" font-weight="650" fill="#F7F8FA">岗位 + 简历</text>
+      <path d="M190 41H229" fill="none" stroke="#F5B942" stroke-width="2"/>
+      <path d="M220 33L229 41L220 49" fill="none" stroke="#F5B942" stroke-width="2"/>
+    </g>
+    <g transform="translate(708 12)">
+      <rect width="172" height="82" rx="6" fill="#202328" stroke="#F5B942" stroke-width="2"/>
+      <text x="86" y="50" text-anchor="middle" font-size="22" font-weight="650" fill="#F7F8FA">LLM 分析</text>
+      <path d="M190 41H229" fill="none" stroke="#F5B942" stroke-width="2"/>
+      <path d="M220 33L229 41L220 49" fill="none" stroke="#F5B942" stroke-width="2"/>
+    </g>
+    <g transform="translate(956 12)">
+      <rect width="180" height="82" rx="6" fill="#F5B942"/>
+      <text x="90" y="39" text-anchor="middle" font-size="20" font-weight="720" fill="#17181B">评分 · 问题</text>
+      <text x="90" y="64" text-anchor="middle" font-size="18" fill="#17181B">修改建议</text>
+    </g>
+  </g>
+</svg>

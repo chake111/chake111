@@ -1,46 +1,56 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI%20THERE&desc=I%20am%20chake111" />
+  <img src="./assets/readme/hero.svg" width="100%" alt="@chake111，全栈开发者与 AI 应用探索者，从前端交互、后端服务到 AI 工作流构建完整产品">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chake111&abbreviated=true" />
-    <a href="https://github.com/chake111">
-        <img src="https://img.shields.io/github/followers/chake111?label=GitHub&style=social" />
-    </a>
-    <a href="https://wakatime.com/@chake111">
-        <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" />
-    </a>
+  <a href="https://github.com/chake111">GitHub</a> ·
+  <a href="https://wakatime.com/@chake111">WakaTime</a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="RabbitMQ" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=idea&theme=light" alt="idea" />
-  <img src="https://skillicons.dev/icons?i=maven&theme=light" alt="maven" />
-  <img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="nginx" />
-  <img src="https://skillicons.dev/icons?i=pinia&theme=light" alt="pinia" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="typeScript" />
-  <img src="https://skillicons.dev/icons?i=vite&theme=light" alt="vite" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode" />
-</p>
+我关注完整产品链路：从界面与交互出发，连接 API、数据存储和智能能力，持续把想法做成可运行、可验证的项目。
+
+## 代表项目
 
 <p align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=chake111&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-    <a href="https://git.io/streak-stats">
-        <img width="300" src="https://streak-stats.demolab.com?user=chake111&theme=transparent&hide_border=true&card_width=300" alt="GitHub Streak" />
-    </a>
+  <img src="./assets/readme/project-showcase.svg" width="100%" alt="AI Tool Picker、饮品点单系统和 AI 简历诊断三个代表项目的核心工作流程">
 </p>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=chake111&theme=github-compact&hide_border=true&area=true" />
+
+### [AI Tool Picker](https://github.com/chake111/ai-tool-picker)
+
+根据具体任务推荐合适的 AI 工具，提供推荐理由、横向对比、收藏和历史记录。推荐链路包含场景识别、排序实验与离线回归集。
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `LLM`
+
+### 饮品点单系统
+
+由用户端、管理端和服务端组成的全栈项目。用户端使用 Vue 与 Vant，管理端使用 Vue、Element Plus 与 ECharts，服务端基于 Spring Boot、MyBatis、MySQL、Redis、JWT 和 WebSocket。
+
+[用户端](https://github.com/chake111/drink-user) · [管理端](https://github.com/chake111/drink-admin) · [服务端](https://github.com/chake111/drink-server)
+
+### [AI 简历诊断](https://github.com/chake111/ai-resume-diagnosis-agent)
+
+输入目标岗位与简历文本后，生成评分、核心问题和修改建议；同时处理 API Key 缺失和模型调用失败等异常情况。
+
+`Python` `Streamlit` `OpenAI-compatible API`
+
+## 技术能力
+
+**前端** · Vue 3、TypeScript、Next.js、Vite<br>
+**后端** · Java、Spring Boot、Python、FastAPI<br>
+**数据** · MySQL、PostgreSQL、Redis、Prisma、MyBatis<br>
+**工程** · Git、Docker、Maven、CI、自动化测试
+
+## 开发数据
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=THE%20END&section=footer&textBg=false&desc=think%20for%20you%20view" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chake111&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=chake111&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=default">
+    <img width="520" src="https://github-readme-stats.vercel.app/api?username=chake111&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" alt="@chake111 的 GitHub 开发统计">
+  </picture>
 </p>
+
+## 链接
+
+- [GitHub · @chake111](https://github.com/chake111)
+- [WakaTime · @chake111](https://wakatime.com/@chake111)
