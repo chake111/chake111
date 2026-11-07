@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1200px; height: 636px; background: #FAF8F3;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    color: #16171A; position: relative; overflow: hidden;
+  }
+  .frame { position: absolute; inset: 0; border: 1.5px solid #E6E0D4; border-radius: 10px; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .head { position: absolute; top: 44px; left: 64px; right: 64px; display: flex; justify-content: space-between; align-items: baseline; }
+  .head .l { font-size: 15.5px; font-weight: 600; letter-spacing: 1.8px; color: #9A9488; }
+  .head .r { font-size: 15.5px; color: #8A857A; }
+  .row { position: absolute; top: 96px; left: 110px; display: flex; gap: 120px; }
+  figure { width: 430px; }
+  .screen { width: 430px; height: 400px; border: 1px solid #DED8CA; border-radius: 12px; overflow: hidden; background: #fff; }
+  .screen img { display: block; width: 430px; height: 400px; }
+  figcaption { padding-top: 22px; }
+  .cap-t { font-size: 19px; font-weight: 650; color: #16171A; }
+  .cap-t .idx { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; color: #B3AC9E; margin-right: 10px; }
+  .cap-d { margin-top: 8px; font-size: 15.5px; color: #8A857A; }
+</style>
+</head>
+<body>
+  <div class="frame"></div>
+  <div class="head">
+    <div class="l mono">FIG. 02 / UI SPECIMEN · 1 : 1</div>
+    <div class="r">客户端 430px ｜ 医生端、管理端为 1440px，共 33 张实测截图</div>
+  </div>
+  <div class="row">
+    <figure>
+      <div class="screen"><img src="ui-consultroom.png" alt=""></div>
+      <figcaption>
+        <div class="cap-t"><span class="idx">01</span>实时图文问诊</div>
+        <div class="cap-d">消息回执 · 大图轮播 · 医生在线状态</div>
+      </figcaption>
+    </figure>
+    <figure>
+      <div class="screen"><img src="ui-booking.png" alt=""></div>
+      <figcaption>
+        <div class="cap-t"><span class="idx">02</span>选宠与号源</div>
+        <div class="cap-d">宠物档案 · 上午/下午余量实时回写</div>
+      </figcaption>
+    </figure>
+  </div>
+</body>
+</html>

@@ -1,57 +1,77 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1200" height="400" viewBox="0 0 1200 400"
-     role="img" aria-labelledby="title desc">
-  <title id="title">@chake111 - 全栈开发者与 AI 应用探索者</title>
-  <desc id="desc">从前端交互、后端服务到 AI 工作流的完整产品开发路径。</desc>
+     width="1200" height="380" viewBox="0 0 1200 380"
+     role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">冯坚怀 @chake111 — 后端为主的全栈工程师</title>
+  <desc id="heroDesc">左侧是姓名、定位与常用技术栈；右侧列出宠物医院三端系统已交付的六个业务环节，从线上图文问诊到诊后评价。</desc>
 
-  <rect width="1200" height="400" rx="6" fill="#F7F8FA"/>
+  <rect width="1200" height="380" rx="10" fill="#FAF8F3"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="9.5" fill="none" stroke="#E6E0D4" stroke-width="1.5"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="64" y="55" font-size="17" font-weight="700" fill="#17181B">PROFILE / FULL-STACK BUILDER</text>
-    <text x="1136" y="55" text-anchor="end" font-size="16" fill="#616770">BUILD · SHIP · LEARN</text>
+  <!-- identity -->
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="64" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="16.5" font-weight="600" letter-spacing="2.2" fill="#9A9488">PROFILE / 2026 · GUANGXI, CN</text>
+
+    <text x="64" y="136" font-size="62" font-weight="800" fill="#16171A">冯坚怀</text>
+    <text x="268" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="19" fill="#9A9488">@chake111</text>
+
+    <text x="64" y="184" font-size="26" font-weight="650" fill="#2A2823">后端为主的全栈工程师</text>
+
+    <text x="64" y="228" font-size="21.5" fill="#5A554C">从表结构到最后一屏，</text>
+    <text x="64" y="260" font-size="21.5" fill="#5A554C">一个人把需求做成能上线的三端系统。</text>
+    <text x="64" y="292" font-size="21.5" fill="#5A554C">现在也在把 AI 做成能自己跑起来的工作流。</text>
   </g>
 
-  <g transform="translate(64 84)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
-    <text x="0" y="70" font-size="76" font-weight="750" fill="#17181B">@chake111</text>
-    <text x="2" y="119" font-size="31" font-weight="650" fill="#17181B">全栈开发者 · AI 应用探索者</text>
-    <text x="2" y="161" font-size="21" fill="#616770">从交互界面到后端服务，再到 AI 工作流，把想法做成可用产品。</text>
-  </g>
+  <line x1="64" y1="320" x2="560" y2="320" stroke="#E0DACD" stroke-width="1.5"/>
 
-  <g transform="translate(884 84)">
-    <rect x="0" y="0" width="72" height="72" rx="6" fill="#20B8CD"/>
-    <rect x="84" y="0" width="72" height="72" rx="6" fill="#FF6B6B"/>
-    <rect x="168" y="0" width="72" height="72" rx="6" fill="#F5B942"/>
-    <path d="M36 91V123H120V91M120 123H204V91" fill="none" stroke="#17181B" stroke-width="3"/>
-    <circle cx="36" cy="91" r="5" fill="#20B8CD" stroke="#17181B" stroke-width="3"/>
-    <circle cx="120" cy="91" r="5" fill="#FF6B6B" stroke="#17181B" stroke-width="3"/>
-    <circle cx="204" cy="91" r="5" fill="#F5B942" stroke="#17181B" stroke-width="3"/>
-  </g>
+  <text x="64" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15.5" letter-spacing="1.2" fill="#8A857A">SPRING BOOT / MYSQL / WEBSOCKET / VUE 3 / NEXT.JS</text>
 
-  <g transform="translate(0 290)">
-    <rect width="1200" height="110" fill="#17181B"/>
+  <!-- shipped system spine -->
+  <text x="660" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15.5" font-weight="600" letter-spacing="1.8" fill="#9A9488">SHIPPED SYSTEM / PET-HOSPITAL-DEMO</text>
 
-    <g transform="translate(64 29)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
-      <rect width="8" height="52" rx="4" fill="#20B8CD"/>
-      <text x="28" y="22" font-size="16" font-weight="700" fill="#20B8CD">01 / INTERFACE</text>
-      <text x="28" y="50" font-size="22" font-weight="650" fill="#F7F8FA">Vue · Next.js</text>
-    </g>
+  <line x1="662" y1="84" x2="662" y2="300" stroke="#D3CCBC" stroke-width="1.5"/>
 
-    <path d="M344 55H416" fill="none" stroke="#616770" stroke-width="2"/>
-    <path d="M407 47L416 55L407 63" fill="none" stroke="#616770" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <!-- 01 -->
+    <circle cx="662" cy="102" r="4" fill="#16171A"/>
+    <text x="682" y="107" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#B3AC9E">01</text>
+    <text x="716" y="108" font-size="20" font-weight="600" fill="#16171A">线上图文问诊</text>
+    <text x="1136" y="107" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#8A857A">WEBSOCKET · 已读回执</text>
 
-    <g transform="translate(452 29)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
-      <rect width="8" height="52" rx="4" fill="#FF6B6B"/>
-      <text x="28" y="22" font-size="16" font-weight="700" fill="#FF6B6B">02 / SERVICE</text>
-      <text x="28" y="50" font-size="22" font-weight="650" fill="#F7F8FA">Spring Boot · FastAPI</text>
-    </g>
+    <!-- 02 -->
+    <circle cx="662" cy="140" r="5" fill="#FF385C"/>
+    <text x="682" y="145" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#FF385C">02</text>
+    <text x="716" y="146" font-size="20" font-weight="700" fill="#FF385C">医生建议到院</text>
+    <text x="1136" y="145" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#FF385C">CARD → 挂号</text>
 
-    <path d="M760 55H832" fill="none" stroke="#616770" stroke-width="2"/>
-    <path d="M823 47L832 55L823 63" fill="none" stroke="#616770" stroke-width="2"/>
+    <!-- 03 -->
+    <circle cx="662" cy="178" r="4" fill="#16171A"/>
+    <text x="682" y="183" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#B3AC9E">03</text>
+    <text x="716" y="184" font-size="20" font-weight="600" fill="#16171A">锁号与支付</text>
+    <text x="1136" y="183" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#8A857A">SQL 条件更新</text>
 
-    <g transform="translate(868 29)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
-      <rect width="8" height="52" rx="4" fill="#F5B942"/>
-      <text x="28" y="22" font-size="16" font-weight="700" fill="#F5B942">03 / INTELLIGENCE</text>
-      <text x="28" y="50" font-size="22" font-weight="650" fill="#F7F8FA">LLM · Recommender</text>
-    </g>
+    <!-- 04 -->
+    <circle cx="662" cy="216" r="4" fill="#16171A"/>
+    <text x="682" y="221" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#B3AC9E">04</text>
+    <text x="716" y="222" font-size="20" font-weight="600" fill="#16171A">医生接诊</text>
+    <text x="1136" y="221" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#8A857A">同屏病历</text>
+
+    <!-- 05 -->
+    <circle cx="662" cy="254" r="4" fill="#16171A"/>
+    <text x="682" y="259" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#B3AC9E">05</text>
+    <text x="716" y="260" font-size="20" font-weight="600" fill="#16171A">电子病历</text>
+    <text x="1136" y="259" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#8A857A">影像 · 复诊</text>
+
+    <!-- 06 -->
+    <circle cx="662" cy="292" r="4" fill="#16171A"/>
+    <text x="682" y="297" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#B3AC9E">06</text>
+    <text x="716" y="298" font-size="20" font-weight="600" fill="#16171A">三维评价</text>
+    <text x="1136" y="297" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#8A857A">公开回复</text>
+
+    <text x="1136" y="350" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="14.5" letter-spacing="1.4" fill="#B3AC9E">FIG. 01 / SHIPPED 2026</text>
   </g>
 </svg>
