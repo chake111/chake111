@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="360" height="372" viewBox="0 0 360 372"
+     role="img" aria-labelledby="hmTitle hmDesc">
+  <title id="hmTitle">冯键怀 @chake111 — 后端为主的全栈工程师</title>
+  <desc id="hmDesc">姓名、定位与一句话价值，下面是宠物医院系统的六个业务环节。</desc>
+
+  <rect width="360" height="372" rx="12" fill="#0786B5"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="24" y="54" font-size="30" font-weight="700" fill="#FFFFFF">冯键怀</text>
+    <text x="24" y="84" font-size="16" font-weight="650" fill="#FFFFFF" fill-opacity="0.96">后端为主的全栈工程师</text>
+
+    <text x="24" y="112" font-size="14" fill="#FFFFFF" fill-opacity="0.9">从表结构到最后一屏，一个人把需求</text>
+    <text x="24" y="132" font-size="14" fill="#FFFFFF" fill-opacity="0.9">做成能上线的三端系统。</text>
+
+    <text x="24" y="160" font-size="11" fill="#FFFFFF" fill-opacity="0.62">三端 · 33 张实机截图 · 9 篇 ADR</text>
+
+    <text x="24" y="194" font-size="11" font-weight="600" fill="#FFFFFF" fill-opacity="0.62">系统链路 · 宠物医院</text>
+
+    <line x1="26" y1="216" x2="26" y2="344" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.2"/>
+
+    <circle cx="26" cy="216" r="2.6" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="40" y="220" font-size="13" fill="#FFFFFF" fill-opacity="0.9">线上图文问诊</text>
+    <text x="336" y="220" text-anchor="end" font-size="12" fill="#FFFFFF" fill-opacity="0.66">双工会话</text>
+
+    <circle cx="26" cy="242" r="3" fill="#FFFFFF"/>
+    <text x="40" y="246" font-size="13" font-weight="700" fill="#FFFFFF">医生建议到院</text>
+    <text x="336" y="246" text-anchor="end" font-size="12" fill="#FFFFFF" fill-opacity="0.9">直达挂号</text>
+
+    <circle cx="26" cy="268" r="2.6" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="40" y="272" font-size="13" fill="#FFFFFF" fill-opacity="0.9">锁号与支付</text>
+    <text x="336" y="272" text-anchor="end" font-size="12" fill="#FFFFFF" fill-opacity="0.66">不超卖</text>
+
+    <circle cx="26" cy="294" r="2.6" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="40" y="298" font-size="13" fill="#FFFFFF" fill-opacity="0.9">医生接诊</text>
+    <text x="336" y="298" text-anchor="end" font-size="12" fill="#FFFFFF" fill-opacity="0.66">三栏同屏</text>
+
+    <circle cx="26" cy="320" r="2.6" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="40" y="324" font-size="13" fill="#FFFFFF" fill-opacity="0.9">电子病历</text>
+    <text x="336" y="324" text-anchor="end" font-size="12" fill="#FFFFFF" fill-opacity="0.66">影像挂载</text>
+
+    <circle cx="26" cy="346" r="2.6" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="40" y="350" font-size="13" fill="#FFFFFF" fill-opacity="0.9">三维评价</text>
+    <text x="336" y="350" text-anchor="end" font-size="12" fill="#FFFFFF" fill-opacity="0.66">公开回复</text>
+  </g>
+</svg>

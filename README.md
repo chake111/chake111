@@ -1,19 +1,15 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%"
-       alt="冯坚怀 @chake111 — 后端为主的全栈工程师；右侧是宠物医院三端系统已交付的六个环节：问诊、建议到院、锁号支付、接诊、病历、评价">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/readme/hero-mobile.svg">
+    <img src="./assets/readme/hero.svg" width="100%"
+         alt="冯键怀 @chake111 — 后端为主的全栈工程师；右侧是宠物医院三端系统的六个业务环节：问诊、建议到院、锁号支付、接诊、病历、评价">
+  </picture>
 </p>
 
 <p align="center">
   <a href="mailto:qpalsd@foxmail.com">qpalsd@foxmail.com</a> ·
-  <a href="https://github.com/chake111">github.com/chake111</a> ·
   广西，中国
 </p>
-
-<p align="center">
-  <sub>Schema → API → realtime → UI, end to end. Lately: AI workflows that run on their own.</sub>
-</p>
-
-现在主要做两件事：把一套业务从数据模型做到三端界面；把重复的判断写成 AI 能照着跑的 skill。做完的东西尽量留下能验收的痕迹 —— 截图、接口文档、ADR、能跑起来的仓库。
 
 ## 代表作：宠物医院预约与图文问诊系统
 
@@ -21,17 +17,15 @@
 
 <p align="center">
   <img src="./assets/readme/ui-board.webp" width="100%"
-       alt="宠物医院系统两张 1:1 实机截图：左侧是客户端实时图文问诊，含医生推送的建议到院卡片；右侧是客户端选宠与号源时段界面">
+       alt="两张客户端实机截图：左侧是问诊会话里医生推送的建议到院卡片，对应链路的 01–02；右侧是医生近期号源与余量，对应 03">
 </p>
 
-- **不超卖** —— `UPDATE ... WHERE remaining_slots > 0` 行级条件更新，不加锁也不超卖；超时未支付由定时任务回收号源。
+- **不超卖** —— `UPDATE ... WHERE remaining_slots > 0` 行级条件更新，不加锁也不超卖；超时未支付自动回收号源。
 - **实时** —— 原生 WebSocket：消息送达与已读回执、患部大图轮播、医生在线状态广播。
-- **会话安全** —— 双端拦截器路径隔离；`token_version` 让改密即刻注销历史 Token。
-- **可验收** —— 9 篇 ADR、OpenAPI 规范与陈氏 ER 图，交付件和代码一起进仓库。
+- **会话安全** —— 双端拦截器路径隔离；token_version 字段让改密即刻注销历史 Token。
+- **可验收** —— OpenAPI 规范、陈氏 ER 图与 ADR，交付件和代码一起进仓库。
 
-**技术栈** —— `Spring Boot 3.5` · `Vue 3.5` · `MySQL 8` · `MyBatis-Plus` · `WebSocket` · `JJWT`
-
-→ **[进仓库看 33 张实机截图](https://github.com/chake111/pet-hospital-demo)**
+→ **[进仓库看全部截图](https://github.com/chake111/pet-hospital-demo)**
 
 ## 其他在跑的东西
 
@@ -53,8 +47,4 @@
 
 ## 联系
 
-在做的东西都留了截图和文档，看得上可以直接翻仓库；想聊技术、聊机会，邮件最快。
-
-- **邮箱** — [qpalsd@foxmail.com](mailto:qpalsd@foxmail.com)
-- **GitHub** — [@chake111](https://github.com/chake111)
-- **位置** — 广西，中国
+想聊技术、聊机会，或者想知道某个项目怎么做的，邮件最快：[qpalsd@foxmail.com](mailto:qpalsd@foxmail.com)。
