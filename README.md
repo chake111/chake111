@@ -27,14 +27,13 @@
 
 → **[进仓库看全部截图](https://github.com/chake111/yuzhua-pet-clinic)**
 
-## 其他在跑的东西
+## 其他项目
 
 | 项目 | 它做什么 | 用什么 |
 | --- | --- | --- |
-| [AI Tool Picker](https://github.com/chake111/ai-tool-picker) | 说一句需求，拿到可对比的工具清单与理由 | Next.js · TypeScript · PostgreSQL · GLM-4-Flash |
-| [开源贡献 skill](https://github.com/chake111/oss-contribution-skill) | 从筛项目到写 PR 描述的完整贡献流程 | Agent Skill · Markdown |
-| [每日投递 skill](https://github.com/chake111/boss-daily-apply) | 按证据强度配岗位，投递后复盘回复率 | Python · Agent Skill |
-| [K-Means](https://github.com/chake111/kmeans-from-scratch) | 不用算法库，手写聚类全流程 | Python · NumPy |
+| [开源贡献 skill](https://github.com/chake111/agent-skills/tree/main/skills/oss-contribution) | 从筛项目到写 PR 描述的完整贡献流程 | Agent Skill · Markdown |
+| [每日投递 skill](https://github.com/chake111/agent-skills/tree/main/skills/boss-daily-apply) | 按简历证据强度匹配投递方向，事后复盘回复率 | Python · Agent Skill |
+| [K-Means](https://github.com/chake111/kmeans-from-scratch) | 手写 K-Means 的分配与更新，不调算法库 | Python · NumPy · matplotlib |
 
 ## 工具箱
 
