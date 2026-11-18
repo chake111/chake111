@@ -38,9 +38,9 @@
 ## 工具箱
 
 - **语言** — Java · TypeScript · Python · SQL
-- **后端** — Spring Boot · MyBatis-Plus · Spring Security · WebSocket
-- **前端** — Vue 3 · Vite · Element Plus · Next.js · Tailwind CSS
-- **数据** — MySQL 8 · Redis · PostgreSQL
+- **后端** — Spring Boot · MyBatis-Plus · JWT · BCrypt · WebSocket
+- **前端** — Vue 3 · Vite · Element Plus
+- **数据** — MySQL 8 · Redis
 - **AI** — LLM API · Agent Skill
 - **工程** — Git · Maven · Docker · OpenAPI · Linux
 
